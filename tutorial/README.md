@@ -49,3 +49,7 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 # Links
 - [Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/)
+
+# Deploy on netlify
+- npm run build
+- Upload directkly the "dist" folder
